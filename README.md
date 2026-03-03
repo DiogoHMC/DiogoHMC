@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diogo!</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷 and a game lover</h3>
 
-Computer science undergraduate student at C.E.S.A.R. School, currently in my 7th semester! 
+Computer science undergraduate student at C.E.S.A.R. School, currently in my 8th semester! 
 
-<p>- 🌱 I'm currently learning: React Ts + Vite and NestJs </p>
+<p>- 🌱 I'm currently learning: GO </p>
 
 
 <!--
